@@ -10,6 +10,9 @@ Retrieve the list 11 from contact_list
 
 Retrieve the data of each contact in list 11
 
-Replace the variable into template with the data 
+Replace the variable into template with the data retrieved  :
+ * <var:17>  is the content of data field 17
 
 Send the email to an smtp server :test.critsend.com,logintest ,password:test 
+
+Send us your folang code to support@critsend.com : Zip or Github repo link 
