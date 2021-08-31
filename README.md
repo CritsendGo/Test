@@ -18,3 +18,5 @@ Replace the variable into template with the data retrieved  :
 Send the email to an smtp server :test.critsend.com,logintest ,password:test 
 
 Send us your golang code to support@critsend.com : Zip or Github repo link 
+
+
