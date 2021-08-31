@@ -6,7 +6,7 @@ The token to test is 9388e11749c350772b8a0fe9092deeb8
 
 You need to :
 
-Retrieve the campaign 17 from the api
+Retrieve the template 17 from the api
 
 Retrieve the list 11 from contact_list
 
