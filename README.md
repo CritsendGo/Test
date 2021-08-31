@@ -1,4 +1,6 @@
-# You can find the documentation on https://beta.critsend.com/docs
+# Golang Test 
+
+You can find the documentation from https://beta.critsend.com/docs
 
 The token to test is 9388e11749c350772b8a0fe9092deeb8
 
@@ -15,4 +17,4 @@ Replace the variable into template with the data retrieved  :
 
 Send the email to an smtp server :test.critsend.com,logintest ,password:test 
 
-Send us your folang code to support@critsend.com : Zip or Github repo link 
+Send us your golang code to support@critsend.com : Zip or Github repo link 
